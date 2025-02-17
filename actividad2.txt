@@ -1,0 +1,4 @@
+en la segunda tarea pude poner en practica fundamentos de la programacion
+la logica que se emplea en la programacion y la importancia de seguir pasos
+y como los algoritmos se aplican demasiado en la programacion 
+tuvo sus desafios ya que jamas habia programado en java script pero aprendi mucho

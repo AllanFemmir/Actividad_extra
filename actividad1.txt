@@ -1,0 +1,7 @@
+en la primera tarea pude realizar una serie de actividades en las que pude ver
+o poner en practica los algoritmos fue algo que tenia tiempo sin hacer y fue desafiante
+ya que era necesario saber colocar todos los pasos precisos para no cometer
+equivocaciones. A través de el segundo ejercicio, 
+se demostró el funcionamiento del sistema binario 
+en informática y su aplicación en la representación de datos fue igual de desafiante ya que
+colocar cada 0 y 1 requirio mucha concentracion

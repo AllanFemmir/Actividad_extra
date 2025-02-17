@@ -1,0 +1,5 @@
+en esta actividad utilice un controlador de versiones en lo personal nunca
+habia oido de esta herramienta pero fue increible crear repositorios y se 
+que durante mi carrera profesional lo utilizare ya que es muy esencial llevar
+un control de todos los cambios que se realizan durante el desarrollo de pro-
+gramas
